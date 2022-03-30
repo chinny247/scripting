@@ -6,6 +6,6 @@ echo "This is the first shell script example !!"
 echo "Today date is"
 date
 echo "Shellscript is very easy"
-
+#Go
 
 
